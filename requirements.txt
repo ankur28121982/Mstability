@@ -5,3 +5,5 @@ tensorflow
 keras
 numpy
 pandas
+streamlit
+mediapipe
